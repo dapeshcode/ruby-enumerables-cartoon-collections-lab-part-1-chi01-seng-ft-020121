@@ -10,7 +10,3 @@ def list_dwarves(array)
   end
 end
 
-test = dwarves = ["Dopey", "Grumpy", "Bashful"]
-
-greet_characters(test)
-list_dwarves(test)
