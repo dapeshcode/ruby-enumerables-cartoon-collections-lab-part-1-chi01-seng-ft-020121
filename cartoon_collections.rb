@@ -9,3 +9,4 @@ def list_dwarves(array)
     puts "#{index}. #{dwarf}"
   end
 end
+
